@@ -11,5 +11,5 @@ class Solution:
         
         return False
 
-# T(N) = O(N)
-# S(N) = O(N)
+# T = O(N)
+# S = O(N)

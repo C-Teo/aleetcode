@@ -24,8 +24,8 @@ class Solution:
         
         return output
 
-# T(N) = O(N^3)
-# S(N) = O(N)
+# T = O(N^3)
+# S = O(N)
 
 class Solution2:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:

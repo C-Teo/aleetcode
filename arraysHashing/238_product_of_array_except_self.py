@@ -14,5 +14,5 @@ class Solution:
         
         return output
 
-# T(N) = O(N)
-# S(N) = O(1) # Since we can ignore the array output
+# T = O(N)
+# S = O(1) # Since we can ignore the array output

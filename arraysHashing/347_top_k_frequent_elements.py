@@ -30,8 +30,8 @@ class Solution2:
 
         return result
 
-# T(O) = O(n * log(n))
-# S(O) = O(n)
+# T = O(n * log(n))
+# S = O(n)
 
 # Bucket Sort
 # Quicksort

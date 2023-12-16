@@ -20,8 +20,8 @@ class Solution:
         
         return True
 
-# T(N) = O(N)
-# S(N) = O(N)
+# T = O(N)
+# S = O(N)
 
 class Solution2:
     def isAnagram(self, s: str, t: str) -> bool:
