@@ -7,13 +7,13 @@ Welcome to my LeetCode Solutions Repository! This repository is dedicated to sto
 The repository is organized by LeetCode problem topics, and within each topic, solutions are organized by problem number. The folder structure is as follows:
 
 ```
-/LeetCode
-    /Array
+/SampleDirectory
+    /AnotherDirectory
         - 1_two_sum.py
         - ...
-    /String
+    /DirectoryTwo
         - ...
-    /LinkedList
+    /SupriseAThirdDirectory
         - ...
     /...
 ```
