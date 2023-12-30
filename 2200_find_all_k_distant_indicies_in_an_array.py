@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+
 class Solution:
     def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
         l = len(nums)
