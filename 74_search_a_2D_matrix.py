@@ -22,3 +22,5 @@ class Solution:
 
 # T = O(M + N)
 # S = O(1)
+
+# Faster Solution
